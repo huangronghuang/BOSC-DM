@@ -1,4 +1,4 @@
-# shanghai_dm
+# 上海银行数据管理平台问题沟通
 
 ![workflow](https://github.com/huangronghuang/shanghai_dm/blob/master/images/issue-workflow.jpg)
 **填写issue流程**
